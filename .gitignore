@@ -1,0 +1,8 @@
+# Ignore the json reports(size is too large).
+*.json
+
+# Ignore the pickle objects.
+*.pickle
+
+# Output file.
+logs_from_mongo_collection.txt
